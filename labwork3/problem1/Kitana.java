@@ -8,7 +8,7 @@ public class Kitana extends CharacterMK{
     }
     @Override
     void abstractMethodFatality() {
-        System.out.println(getName() + " beautifully cuts the enemy with her Fan.\nKitana WIN!");
+        System.out.println(getName() + " cuts the enemy with her Fan.\nKitana WIN!");
     }
     @Override
     void abstractMethodAttack() {
